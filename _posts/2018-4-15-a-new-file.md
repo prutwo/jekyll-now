@@ -1,9 +1,7 @@
 ---
-published: false
----
----
 layout: post
-title: new file test
+title: a new file
+published: true
 ---
 
 
